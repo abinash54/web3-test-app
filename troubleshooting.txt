@@ -1,0 +1,2 @@
+1. metamask not connecting to local chain
+- check the port and address, go to full screen mode
